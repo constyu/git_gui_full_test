@@ -1,7 +1,6 @@
 ﻿i am 20170805_practice
 Ìí¼ÓÒ»ÐÐ£¬²âÊÔÉÏ´«
-add one line to show hubhub
-add one more line at hub
-add one more line at pcpcpc
-
-edit at pc
+hub 1
+hub 2
+pc 1
+pc 2
