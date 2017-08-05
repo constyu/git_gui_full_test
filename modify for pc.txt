@@ -1,5 +1,5 @@
-﻿hub 1
-hub 2
+﻿hub 11
+hub 22
 pc 1
 pc 2 
 modify
