@@ -1,6 +1,6 @@
 ﻿i am 20170805_practice
 Ìí¼ÓÒ»ÐÐ£¬²âÊÔÉÏ´«
-hub 1
-hub 2
-pc 1 modify
-pc 2 modify
+hub 1 modify
+hub 2 modify
+pc 1
+pc 2
